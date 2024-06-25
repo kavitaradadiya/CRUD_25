@@ -1,0 +1,7 @@
+module.exports.A = require("./a.model")
+module.exports.B = require("./b.model")
+module.exports.C = require("./c.model")
+module.exports.D = require("./d.model")
+module.exports.E = require("./e.model")
+module.exports.F = require("./f.model")
+module.exports.G = require("./g.model")
